@@ -1,0 +1,10 @@
+.My_Navbar{
+  position: sticky;
+    top: 0;
+    z-index: 9999;
+    
+}
+#video{
+    
+    margin-top: 20px;
+}
